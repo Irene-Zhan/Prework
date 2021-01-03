@@ -26,8 +26,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [RocordIt](https://recordit.co/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I tried to implement dark mode in the settings but encountered some trouble.
 
 ## License
 
